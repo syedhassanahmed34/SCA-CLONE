@@ -1,0 +1,391 @@
+
+
+.nav {
+    color: black;
+    font: 17px;
+    padding-top: 12px;
+    background-image: url(https://media.istockphoto.com/id/1549142646/photo/automated-smart-farming-facility-using-robotics.jpg?s=1024x1024&w=is&k=20&c=tkqMTa3S-MPbdYcdPiqaYtAtkm5hKow5GP6dpIT4r3c=);
+}
+
+.nav>img {
+    height: 96px;
+    width: 200px;
+
+}
+
+.nav-items {
+    display: flex;
+    /* padding-top: 25px; */
+    /* justify-content: space-evenly;
+    align-items: center; */
+    font-weight: bold;
+    margin-left: 350px;
+    margin-top: -58px;
+}
+
+.nav-items>ul>a {
+    padding: 2px 20px;
+}
+
+.nav-items:hover{
+    cursor: pointer;
+}
+
+.btn {
+    /* margin-left: 270px; */
+    background-color: #F0AA48;
+    height: 45px;
+    width: 150px;
+    padding-top: 22px;
+    color: darkblue;
+    padding: 8px;
+    margin-left: 50px;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 70px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    margin-top: 270px;
+    margin-left: -650px;
+
+}
+
+button {
+    margin-top: 370px;
+    background-color: #ffffff;
+    color: black;
+    margin-left: -370px;
+    height: 50px;
+    width: 160px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #F0AA48;
+    cursor: pointer;
+}
+
+.about {
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.heading-one {
+    margin-left: 100px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.paragraph-one {
+    margin-left: 100px;
+    margin-top: 40px;
+    font-weight: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.bullet-one>ul {
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.bullet-one>ul {
+    list-style-type: circle;
+    font-weight: 600;
+}
+
+.bullet-one>ul>li {
+    margin-top: 20px;
+}
+
+.one-img {
+    float: right;
+    height: 600px;
+    width: 650px;
+}
+
+.second-box>.child-two {
+    text-align: end;
+    margin-right: 90px;
+}
+
+.vision {
+    margin-right: 510px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.heading-two {
+    margin-right: 370px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.paragraph-two {
+    margin-right: 150px;
+    margin-top: 40px;
+    font-weight: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.second-box>.child-two>pre {
+    font-size: 17px;
+    font-weight: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 90px;
+}
+
+.bullet-two>ul>li {
+    margin-top: 20px;
+    list-style-type: circle;
+    font-weight: 600;
+
+}
+
+.second-box>.child-one>.btn {
+    margin-top: 50px;
+    margin-left: 120px;
+
+}
+
+.second-box>.child-two>.btn {
+    margin-right: 530px;
+    margin-top: -70px;
+}
+
+.third-sec {
+    height: 700px;
+    background-color: lightgrey;
+}
+
+.third-sec>.text {
+    text-align: center;
+}
+
+.text-part {
+    margin-top: 20px;
+
+}
+
+.third-sec>span {
+    font-weight: 800;
+}
+
+.one-box {
+    height: 90px;
+    width: 80px;
+    background-color: grey;
+}
+
+.text-part {
+    text-align: center;
+}
+
+.third-sec {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box-2 {
+    width: 300px;
+    height: 250px;
+    /* border: 1px solid black; */
+    margin: 5px;
+    position: relative;
+    background-color: white;
+    padding-left: 90px;
+    padding-top: 60px;
+}
+
+.box-2:hover {
+    cursor: pointer;
+    background-color: #2aa38c;
+}
+
+.box-2 .box-image2 {
+    height: 100px;
+    width: 120px;
+    border-radius: 13%;
+    padding-bottom: 3px;
+}
+
+.box-image2:hover {
+    cursor: pointer;
+    transform: scale(0.8);
+    transition: all ease 0.3s;
+    border: 1px solid grey;
+}
+
+.box-title2:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+
+}
+
+
+.box-title2 {
+    display: block;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 25px;
+}
+
+.commit {
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.heading-three {
+    margin-left: 100px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.paragraph-three {
+    margin-left: 100px;
+    margin-top: 40px;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.three-img {
+    float: right;
+    height: 500px;
+    width: 650px;
+    border-radius: 250%;
+}
+
+.four-paragraph {
+    text-align: center;
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.four-img {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.four-box>.four-img {
+    border-radius: 200%;
+}
+
+.fifth-paragraph {
+    text-align: center;
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+ 
+.fifth-img{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fifth-img:hover{
+    cursor: pointer;
+    color: aqua;
+}
+
+footer {
+    background-color: #1b1d1f;
+    padding: 50px 20px;
+    border-top: 5px solid #4eb060
+}
+
+.footer-container {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo a {
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.footer-logo a span {
+    color: lightblue;
+}
+
+.footer-social {
+    display: flex;
+    margin-top: 10px;
+}
+
+.footer-social a {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    border: 1px solid #ffffff15;
+    font-size: 0.9rem;
+    margin: 0px 5px;
+    transition: all ease 0.3s;
+}
+
+.footer-social a:hover {
+    background-color: #4eb060;
+    transition: all ease 0.3s;
+}
+
+.footer-links strong {
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.footer-links ul {
+    margin-top: 10px;
+}
+
+.footer-links ul li a {
+    color: #ffffff;
+    opacity: 0.5;
+    margin: 4px 0px;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    transition: all ease 0.3s;
+}
+.footer-links li a:hover{
+    opacity: 1;
+    transition: all ease 0.3s;
+
+}
